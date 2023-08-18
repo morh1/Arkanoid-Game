@@ -1,5 +1,5 @@
 [![My Skills](https://skills.thijs.gg/icons?i=java,git)](https://skills.thijs.gg)
-# Arkanoid-Game
+# Arkanoid-Game 💜🐠
 ### ***Overview:***
 This is an implementation of the classic Arkanoid game in Java. <br>
 I developed this project as part of an Object-Oriented Programming course, at Bar Ilan University.<br>
@@ -14,7 +14,7 @@ demonstrating the power of OOP design patterns in creating a flexible and modula
 The objective of Arkanoid is to control a paddle to bounce a ball and break a wall of bricks.<br>
 Your goal is to clear all the bricks on the screen and prevent the ball from falling off the bottom of the play area.<br>
 ### ***Gameplay:***
-** 1. Start of the Game:** The game begins with the ball placed on the paddle at the bottom of the screen.<br>
+**1. Start of the Game:** The game begins with the ball placed on the paddle at the bottom of the screen.<br>
 A wall of bricks is located at the top of the screen.<br>
 **2. Bouncing the Ball:** Once the ball is launched, it will start bouncing around the screen.<br>
 The ball will bounce off the walls, the paddle, and the bricks.<br>
@@ -23,21 +23,17 @@ Each brick has a certain number of hits required to break it.<br>
 When the ball hits a brick, the brick's hit count decreases, and the ball changes direction.<br>
 **4. Paddle Control:** Move the paddle left and right to keep the ball from falling off the bottom of the screen.<br>
 If the ball falls off the bottom, you lose a life.<br>
-**5. Power-Ups:** Some bricks release power-ups when hit.<br>
-Power-ups can include larger paddles, multiple balls, or increased ball speed.<br>
-To collect a power-up, simply let the ball hit it as it falls down.<br>
-**6. Completing Levels:** Once all the bricks on the screen are broken, you advance to the next level.<br>
+**5. Completing Levels:** Once all the bricks on the screen are broken, you advance to the next level.<br>
 Each level may have a different arrangement of bricks.<br>
-**7. Losing a Life:** You have a limited number of lives. You lose a life when the ball falls off the bottom of the screen.<br>
-After losing a life, the ball will be placed on the paddle again, and you can continue playing from where you left off.<br>
-**8. Game Over:** The game is over when you run out of lives.<br>
+**8. Game Over:** The game is over when you run out of balls.<br>
 Your final score is based on the number of bricks you've broken and any points earned from power-ups.<br>
+### ***Levels:***
+* Level 1: Direct Hit
+* Level 2: sunshine
+* Level 3: under the sea
+* Level 4: Space
 ### ***Running the project:***
 1. Clone the project to your machine.<br>
-2. write the `make` command line.<br>
-3. write `./ex3.out config.txt`<br>
-when the config.txt is txt  file that contains all the articles.
-##***Dependencies:***
-* Linux
-* Git
+2. Run the `Ass6Game` class, which is located in the src directory of the project.
+
 
