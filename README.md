@@ -6,10 +6,10 @@ I developed this project as part of an Object-Oriented Programming course, at Ba
 The game contains 4 levels with increasing difficulty and is implemented in a GUI-friendly platform.<br>
 demonstrating the power of OOP design patterns in creating a flexible and modular game structure.<br>
 
-| <img src="https://github.com/morh1/Arkanoid-Game/assets/117579573/afdc5755-37af-46f3-9d83-7b9fce1f8a2e" width="400" height="315">
-| <img src="https://github.com/morh1/Arkanoid-Game/assets/117579573/0c367da9-bafe-424a-85e4-efc9727f3399" width="400" height="315">
-| <img src="https://github.com/morh1/Arkanoid-Game/assets/117579573/9b855668-8739-4453-9ca1-fdaa953223c9" width="400" height="315">
-| <img src="https://github.com/morh1/Arkanoid-Game/assets/117579573/fdbabb08-e5d6-481a-ae51-bfd7cdebb4ba)" width="400" height="315">
+ <img src="https://github.com/morh1/Arkanoid-Game/assets/117579573/afdc5755-37af-46f3-9d83-7b9fce1f8a2e" width="400" height="315">
+ <img src="https://github.com/morh1/Arkanoid-Game/assets/117579573/0c367da9-bafe-424a-85e4-efc9727f3399" width="400" height="315">
+ <img src="https://github.com/morh1/Arkanoid-Game/assets/117579573/9b855668-8739-4453-9ca1-fdaa953223c9" width="400" height="315">
+ <img src="https://github.com/morh1/Arkanoid-Game/assets/117579573/fdbabb08-e5d6-481a-ae51-bfd7cdebb4ba)" width="400" height="315"><br>
 ### ***About:***
 The objective of Arkanoid is to control a paddle to bounce a ball and break a wall of bricks.<br>
 Your goal is to clear all the bricks on the screen and prevent the ball from falling off the bottom of the play area.<br>
