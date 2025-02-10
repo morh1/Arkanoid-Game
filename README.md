@@ -1,4 +1,4 @@
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+
 # Arkanoid-Game 💜🐠
 ### ***Overview:***
 This is an implementation of the classic Arkanoid game in Java. <br>
